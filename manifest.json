@@ -19,4 +19,15 @@
             "type":"image/png"
         }
     ]
+    "orientation": "portrait", 
+    "screenshots" [
+    {
+        "src":"/screenshot1.png",
+        "sizes" "320x480",
+        "type: "image.png
+    }
+    ],
+    "categories": ["education"],
+    "prefer_related_applications":false,
+    "scope": "/"
 }
